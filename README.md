@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    <img src="https://i.pinimg.com/originals/0d/31/3e/0d313e0741d24a50edaf3ff5e10509fe.gif" alt="Açıklama" />
+    <img src="https://i.pinimg.com/originals/94/b2/1a/94b21a17d8a954aee4e7228457d52729.gif"/>
 </p>
 
 <h3 align="center">A developer who codes anything that sounds fun, loves writing, loves researching the internet</h3>
