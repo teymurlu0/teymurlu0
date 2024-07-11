@@ -2,6 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mahir+Teymurlu;" />
+    https://i.pinimg.com/originals/0d/31/3e/0d313e0741d24a50edaf3ff5e10509fe.gif
 </h1>
 
 <h3 align="center">A developer who codes anything that sounds fun, loves writing, loves researching the internet</h3>
