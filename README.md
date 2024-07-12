@@ -11,9 +11,9 @@
 <br/>
 
 <div align="center">
-    🔭 I’m currently working on **VR Project**<br/>
-    🌱 I’m currently learning **OpenCV**<br/>
-    ⚡ Fun fact **Not all game developers are real developers**<br/>
+    🔭 I’m currently working on - VR Project<br/>
+    🌱 I’m currently learning - OpenCV<br/>
+    ⚡ Fun fact -  Not all game developers are real developers<br/>
 </div>
 
 <hr/>
